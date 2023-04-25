@@ -134,15 +134,6 @@ function App() {
           </>
         )}
       </section>
-
-      <div className="made-with-love">
-        Made with
-        <i>♥</i> by
-        <a target="_blank" rel="noreferrer" href="https://vishnuswaroop.live">
-          {' '}
-          Vishnu Swaroop
-        </a>
-      </div>
     </div>
   )
 }
